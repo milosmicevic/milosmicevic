@@ -5,4 +5,4 @@
 * How to reach me ...   <a href="https://www.linkedin.com/in/milo%C5%A1-mi%C4%87evi%C4%87-642829205/"><img alt="Linkedin" width="25px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" /></a>
 * I'm interested in cars ...   <a href="https://i.pinimg.com/474x/22/df/13/22df13e2c871aa05e8f56c60643c9383.jpg"><img alt="Cars" width="25px" src="https://bit.ly/2YH8Fjo" /></a>
 
-<img src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif" align="center">
+<img src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif">
