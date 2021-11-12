@@ -1,3 +1,6 @@
+<style>
+background-image: url("https://giphy.com/embed/dvreHY4p06lzVSDrvj")
+</style>
 <h1>Hello World, I'm Miloš 👋🏽</h1>
 
 * Im currently working on some Web Projects ...   <img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
