@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Miloš <img alt="Cars" width="25px" src="https://cdn-icons-png.flaticon.com/512/3206/3206955.png" /></h1>
+<h1>Hello World, I'm Miloš <img alt="Cars" width="25px" src="https://cdn-icons.flaticon.com/png/512/2121/premium/2121143.png?token=exp=1637664579~hmac=248087a491517280fe9931bae53b70c3" /></h1>
 
 * <p>Im currently working on some Web Projects   <img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></p>
 * <p>I’m currently learning Vue.js   <img alt="Vue" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" /></p>
